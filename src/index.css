@@ -1,13 +1,69 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("./photo/cyberchase-960x540-2.jpg");
+  background-repeat: space;
+  background-size: 150px;
 }
-
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10%;
+  height: 20%;
+}
+.back-img {
+  background-image: url("./photo/channels4_profile.jpg");
+}
+.container-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10% 10% 50px;
+}
+.container-three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.App {
+  margin: auto;
+  width: 60%;
+  height: auto;
+  background-color: #8000ff;
+  border-radius: 20px;
+}
+button {
+  height: 35px;
+  width: auto;
+  transition-duration: 0.5s;
+  background-color: #fff;
+  color: rgb(255, 0, 0);
+  border: 3px solid rgb(255, 0, 0);
+  border-radius: 5px;
+}
+button:hover {
+  background-color: rgb(55, 255, 0);
+  color: #fff;
+}
+h4,
+p {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+}
+p {
+  margin-bottom: 40px;
+}
+input {
+  border: 3px solid rgb(255, 0, 0);
+  border-radius: 5px;
 }
