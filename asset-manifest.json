@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cyberchase_Count/static/css/main.bead317a.css",
+    "main.js": "/Cyberchase_Count/static/js/main.49e00546.js",
+    "static/js/787.82531c87.chunk.js": "/Cyberchase_Count/static/js/787.82531c87.chunk.js",
+    "static/media/cyberchase-960x540-2.jpg": "/Cyberchase_Count/static/media/cyberchase-960x540-2.2480ad579de9fea606a3.jpg",
+    "static/media/channels4_profile.jpg": "/Cyberchase_Count/static/media/channels4_profile.056c7d9c775d585dc6b3.jpg",
+    "index.html": "/Cyberchase_Count/index.html",
+    "main.bead317a.css.map": "/Cyberchase_Count/static/css/main.bead317a.css.map",
+    "main.49e00546.js.map": "/Cyberchase_Count/static/js/main.49e00546.js.map",
+    "787.82531c87.chunk.js.map": "/Cyberchase_Count/static/js/787.82531c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bead317a.css",
+    "static/js/main.49e00546.js"
+  ]
+}
